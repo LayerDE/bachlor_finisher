@@ -1,0 +1,1 @@
+The specs are incorrect I verified a samplingrate of 120MSample in OC mode and 100MSample in normal mode with a 50MHz square wave.
