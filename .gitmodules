@@ -1,0 +1,9 @@
+[submodule "thesis/hoverboard-firmware-hack-FOC"]
+	path = thesis/hoverboard-firmware-hack-FOC
+	url = https://github.com/BobbyIndustries/hoverboard-firmware-hack-FOC
+[submodule "thesis/bobbycar-project"]
+	path = thesis/bobbycar-project
+	url = https://github.com/LayerDE/bobbycar-project.git
+[submodule "thesis/sim-runner"]
+	path = thesis/sim-runner
+	url = https://github.com/LayerDE/sim-runner.git
