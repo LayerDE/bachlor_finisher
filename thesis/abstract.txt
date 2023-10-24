@@ -1,0 +1,8 @@
+abstract
+
+This work is about developing and testing a new control concept for electric vehicles.
+Then, in the beginning, the concept of the steering control of the electric vehicle is described. For this purpose, a Bobbycar was equipped with individually controllable electric motors at the wheels of the steering axle. In addition, the steering axle was equipped with an angle sensor. With this setup, a steering angle can be approached via a targeted control of the wheels and the regulation of the torque without the intervention of another agent. What is new about this system is that, despite the absence of a separate actuator on the steering mechanism, any steering angle can be controlled at any time. 
+The vehicle is then extended with a remote control. A Jumper T-Pro with ELRS is used for this purpose.
+The next part deals with how remote control can be used to steer the vehicle when reversing. For this purpose, a sensor system is developed that measures the angle of impact of the trailer. Different approaches to simulate the trailer are presented and then an approximation of the driving behavior via triangles is implemented. In addition, a protective circuit for the trailer is needed to prevent damage from collisions with the drawbar. This is developed and presented. Different approaches to reversing control are presented and the solution path of this work by means of lookup table and use of stable angle is executed. 
+The whole work was connected with many difficulties with the used microcontroller and the SDK of it. A separate small paragraph is dedicated to this.
+The work closes with a conclusion and an outlook on the problems still to be solved.
